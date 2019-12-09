@@ -1,12 +1,3 @@
-# Open PR Template
-
-Hey! This template was created by **Alex Cevicelow** and is licensed under the [MIT License](https://opensource.org/licenses/MIT).  If you would like to contribute to this repo please make a PR following this template!
-
-**Inspiration for this template:**
-
- - [Echobind](https://echobind.com/)
- - [Appium PR Template](https://github.com/appium/appium/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
-
 ## Proposed Changes
 
 Create a brief description of what changes are included in this pr. 
@@ -19,10 +10,8 @@ Add a screenshot or gif of your changes to give the reviewer an accurate visual 
 
 ## Checklist
 
- - [ ] E2E testing
- - [ ] Automated testing
- - [ ] Looks good on mobile
- - [ ] Passed all tests
+ - [ ] Tested on desktop
+ - [ ] Tested on mobile
 
 ## Comments & Notes
 
